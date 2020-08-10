@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,17 +15,22 @@ My research ambition lately has generally been focussed around building new tool
 
 I am strongly active amongst the programming language and parallelism communities, where I contribute heavily to the design and implementation of refactoring tools and compiler technology (leading to two refactoring tools, HaRe, for Haskell and ParaFormance, for C/C++); parallel programming (including a new parallel skeleton library for Erlang, Skel); GPU programming; and the design, implementation and application of functional programming languages.
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Postgraduate Students
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+I am currently working with [Yasir Alguwaifli](https://www.cs.st-andrews.ac.uk/directory/person?id=ya8) on researching into heuristic and MOO techniques for energy profiling in multi-cores.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+I am very keen to find research students who will work me on any of these (or related) topics:
+
+-refactoring multi-core
+-refactoring for energy-aware systems
+-energy-aware patterns and skeletons
+-non-functional properties of time, energy and security
+-program transformation
+-formal reasoning of refactoring systems and/or parallel programming
+-dependent types and refactoring
+
+If you are interested in studying for a PhD or postgraduate study, please get in touch.
 
 For more info
 ------
