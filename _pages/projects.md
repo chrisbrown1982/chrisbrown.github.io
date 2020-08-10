@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Projects"
+title: "Projects and Tools"
 permalink: /projects/
 author_profile: true
 
@@ -12,4 +12,6 @@ The TeamPlay project aims to develop new, formally-motivated, techniques that wi
 
 At St Andrews, we are using dependent types, via [Idris](https://www.idris-lang.org/), to provide formal proof systems of assertions that programs meet their non-functional specifications. 
 
+ParaFormance
 -----
+Since 2013, I have been developing tools to aid developers with writing complex multi-core applications. This led to the development of [ParaFormance](http://www.paraformance.com/): a refactoring tool-suite to aid C and C++ developers write programs for multi core systems.
