@@ -11,9 +11,10 @@ Email Address
 
 -----
 Room 1.06
-
+Jack Cole Building
 School of Computer Science
-
 University of St Andrews
-
+Fife
+Scotland
+United Kingdom
 KY16 9SX
