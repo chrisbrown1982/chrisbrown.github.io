@@ -1,14 +1,12 @@
 ---
 title: "CS4201: Programming Language Design and Implementation"
 collection: teaching
-type: "Senior Honours Module - S1"
+type: "Senior Honours Module - Semester 1"
 permalink: /teaching/pldi
-venue: "University of St Andrews, School of Computer Science"
-date: 2020-08-10
-location: "St Andrews, Scotland"
+year: 2020-2021
 ---
 
-This module studies the design and implementation of programming languages. Topics include:
+This module studies the design and implementation of programming languages. Please see [course descriptors](https://portal.st-andrews.ac.uk/catalogue/View?code=CS4201). Topics include:
 
 <ul>
 <li> language design principles </li>
