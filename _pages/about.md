@@ -22,14 +22,15 @@ I am currently working with [Yasir Alguwaifli](https://www.cs.st-andrews.ac.uk/d
 
 I am very keen to find research students who will work me on any of these (or related) topics:
 
--refactoring multi-core
--refactoring for energy-aware systems
--energy-aware patterns and skeletons
--non-functional properties of time, energy and security
--program transformation
--formal reasoning of refactoring systems and/or parallel programming
--dependent types and refactoring
-
+<ul>
+<li>refactoring multi-core</li>
+<li>refactoring for energy-aware systems</li>
+<li>energy-aware patterns and skeletons</li>
+<li>non-functional properties of time, energy and security</li>
+<li>program transformation</li>
+<li>formal reasoning of refactoring systems and/or parallel programming</li>
+<li>dependent types and refactoring</li>
+</ul>
 If you are interested in studying for a PhD or postgraduate study, please get in touch.
 
 For more info
