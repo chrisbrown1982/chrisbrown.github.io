@@ -4,7 +4,7 @@ collection: teaching
 type: "Senior Honours Module - S1"
 permalink: /teaching/pldi
 venue: "University of St Andrews, School of Computer Science"
-date: 2020-2021
+date: 2020-08-10
 location: "St Andrews, Scotland"
 ---
 
